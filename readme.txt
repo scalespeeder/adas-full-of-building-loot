@@ -20,7 +20,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Tested with DayZ version 1.07. Should work fine with future versions, unless number of vehicle spawns are changed,
 or they add the requirement to put oil into engines.
 
-Video instructions: https://www.youtube.com/channel/UCTGhcBU2SPZkE4NLraqTIog
+Video instructions: https://youtu.be/wIURfpcr0UU
 
 Please backup any files you will be working on before doing these edits.
 
